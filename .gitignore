@@ -1,0 +1,11 @@
+# CRA 프로젝트 공통 무시 파일들
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+
+# 로그 파일
+*.log
+npm-debug.log*
+
